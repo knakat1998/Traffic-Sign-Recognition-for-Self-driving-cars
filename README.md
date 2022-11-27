@@ -20,3 +20,7 @@ This dataset has more than 50,000 images of 43 classes.
 -Model Training and Evaluation.
 
 -Testing the Model Using the Test Set.
+
+###### Result:
+
+Achieved an accuracy of 86.88% with the LeNet-5 model, which improved to 96.84% using VGG-16 model.
