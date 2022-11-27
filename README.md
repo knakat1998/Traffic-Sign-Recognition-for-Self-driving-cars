@@ -13,6 +13,8 @@ This dataset has more than 50,000 images of 43 classes.
 
 -Data Preprocessing.
 
+-Design a Model Architecture:
+
          1.LeNet-5
          
          2.VGGNet
